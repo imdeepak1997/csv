@@ -1,0 +1,6 @@
+{ "_id" : "Wrestling" }
+{ "_id" : "Wrestling" }
+{ "_id" : "Shooting" }
+{ "_id" : "Shooting" }
+{ "_id" : "Boxing" }
+{ "_id" : "Badminton" }

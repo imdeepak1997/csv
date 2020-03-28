@@ -1,0 +1,10 @@
+{ "_id" : "United States", "count" : 1312 }
+{ "_id" : "Russia", "count" : 768 }
+{ "_id" : "Germany", "count" : 629 }
+{ "_id" : "Australia", "count" : 609 }
+{ "_id" : "China", "count" : 530 }
+{ "_id" : "Canada", "count" : 370 }
+{ "_id" : "Italy", "count" : 331 }
+{ "_id" : "Great Britain", "count" : 322 }
+{ "_id" : "France", "count" : 318 }
+{ "_id" : "Netherlands", "count" : 318 }

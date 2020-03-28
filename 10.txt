@@ -1,0 +1,5 @@
+{ "_id" : "Swimming", "count" : 765 }
+{ "_id" : "Athletics", "count" : 753 }
+{ "_id" : "Rowing", "count" : 576 }
+{ "_id" : "Football", "count" : 407 }
+{ "_id" : "Hockey", "count" : 388 }
