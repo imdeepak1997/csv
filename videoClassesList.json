@@ -1,0 +1,104 @@
+[
+    {
+        "class": "Class 1",
+        "classid":"classone",
+        "subjects": [
+            {
+                "subjectid":"one-eng",
+                "subject_name": "English",
+                "chapter": [
+                    {
+                        "chapterid":"one-eng-chap1",
+                        "chapter_name": "First Chapter",
+                        "topics": [
+                            {
+                                "topic_name": "First Chapter First Topic",
+                                "topic_video_link": "https://youtu.be/FQw9tVytMKs"
+                            },
+                            {
+                                "topic_name": "Second Chapter Second Topic",
+                                "topic_video_link": "https://youtu.be/FQw9tVytMKs"
+                            },
+                            {
+                                "topic_name": "Second Chapter Second  Topic",
+                                "topic_video_link": "https://youtu.be/FQw9tVytMKs"
+                            }
+                        ]
+                    },
+                    {
+                        "chapterid":"one-eng-chap2",
+                        "chapter_name": "Second Chapter",
+                        "topics": [
+                            {
+                                "topic_name": "First Chapter First Topic",
+                                "topic_video_link": "https://youtu.be/FQw9tVytMKs"
+                            },
+                            {
+                                "topic_name": "Second Chapter Second Topic",
+                                "topic_video_link": "https://youtu.be/FQw9tVytMKs"
+                            },
+                            {
+                                "topic_name": "Second Chapter Second  Topic",
+                                "topic_video_link": "https://youtu.be/FQw9tVytMKs"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "subjectid":"one-math",
+                "subject_name": "Math",
+                "chapter": [
+                    {
+                        "chapterid":"one-math-chap1",
+                        "chapter_name": "First Chapter",
+                        "topics": [
+                            {
+                                "topic_name": "First Chapter First Topic",
+                                "topic_video_link": "https://youtu.be/FQw9tVytMKs"
+                            },
+                            {
+                                "topic_name": "Second Chapter Second Topic",
+                                "topic_video_link": "https://youtu.be/FQw9tVytMKs"
+                            },
+                            {
+                                "topic_name": "Second Chapter Second  Topic",
+                                "topic_video_link": "https://youtu.be/FQw9tVytMKs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "Class 2",
+        "classid":"classtwo",
+        "subjects": [
+            {
+                "subjectid":"two-eng",
+                "subject_name": "English",
+                "chapter": [
+                    {
+                        "chapterid":"two-eng-chap1",
+                        "chapter_name": "First Chapter",
+                        "topics": [
+                            {
+                                "topic_name": "First Chapter First Topic",
+                                "topic_video_link": "https://youtu.be/FQw9tVytMKs"
+                            },
+                            {
+                                "topic_name": "Second Chapter Second Topic",
+                                "topic_video_link": "https://youtu.be/FQw9tVytMKs"
+                            },
+                            {
+                                "topic_name": "Second Chapter Second  Topic",
+                                "topic_video_link": "https://youtu.be/FQw9tVytMKs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
