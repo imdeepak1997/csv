@@ -1,4 +1,5 @@
-[
+{
+    "classList" : [
     {
       "classid": "cone",
       "classNumber": "1",
@@ -60,3 +61,4 @@
       "classTeacher": "Kumar",
     }
   ]
+}
